@@ -8,7 +8,6 @@
 
 // Afficher -1 si le paramètre est négatif ou mauvais.
 
-// fonction qui permey
 let isPrime = (number) => { 
     if (number <= 1) {
         return false;
